@@ -63,6 +63,6 @@ javaString[] currentlyLearning = {
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00d4ff&style=flat-square&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Karthik22-22E&color=00d4ff&style=flat-square&label=Profile+Views"/>
 </p>
 <p align="center">⭐ <i>If you like my work, consider starring my repos!</i> ⭐</p>
