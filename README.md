@@ -1,8 +1,8 @@
-# Hi there, I'm Karthik K Anvekar 👋
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Java+Developer+in+Progress+☕;DBMS+%26+SQL+Enthusiast+🐬;FiveM+Server+Developer+🎮;Game+Dev+with+Unity+🕹️;Building+Cool+Stuff+Every+Day+🚀" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=120&section=header&text=Karthik%20K%20Anvekar&fontSize=40&fontColor=ffffff"/>
 </p>
+
+<h3 align="center">Java Developer ☕ | DBMS Enthusiast 🐬 | FiveM Dev 🎮 | Unity Game Dev 🕹️</h3>
 
 ---
 
@@ -97,6 +97,10 @@ String[] currentlyLearning = {
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Karthik22-22&color=00d4ff&style=flat-square&label=Profile+Views"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=80&section=footer"/>
 </p>
 
 <p align="center">⭐ <i>If you like my work, consider starring my repos!</i> ⭐</p>
